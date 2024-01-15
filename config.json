@@ -1,0 +1,16 @@
+{
+	"title": "UNotes (v0.2.0)",
+	"version": "0.2.0",
+	"theme": "Light",
+	"font": "Lucida Console",
+	"font-size": 12,
+	"font-size-index": 2,
+	"icons": {
+		"save": "./icons/save.png",
+		"open": "./icons/open.png",
+		"new": "./icons/new.png",
+		"exit": "./icons/exit.png",
+		"icon": "./icons/icon.png",
+		"preferences": "./icons/preferences.png"
+	}
+}
