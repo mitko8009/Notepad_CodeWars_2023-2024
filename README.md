@@ -1,4 +1,4 @@
-# CodeWars-2023-2024
+# Notepad for CodeWars 2023/2024
 
 
 [![Discord](https://img.shields.io/discord/959814218230693968.svg)](https://discord.gg/EdKkZxszRd)
@@ -12,7 +12,7 @@ Simple Notepad app made with python
 * Customizable Icons
 
 
-### Install Dependencies:
+## Install Dependencies:
 ```bat
 pip install -r requirements.txt
 ```
