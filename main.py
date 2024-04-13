@@ -73,7 +73,7 @@ class window(QMainWindow):
         self.mainUi.actionPreferences.triggered.connect(lambda: self.preferences())
 
         ################
-        ### PREFERENCES
+        ### PREFERENCES 
         self.preferencesUi.fontFamily.setCurrentFont(QFont(config['font']))
         self.preferencesUi.fontSize.setCurrentIndex(config['font-size-index'])
 
